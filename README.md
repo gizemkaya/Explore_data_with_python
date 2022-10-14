@@ -10,5 +10,5 @@ Some of the topics that are covered through files:
 * Visualising the data
 * Dealing with the missing values
 * Dealing with the outliers
-* Checking the distributions
+* Checking statistical distributions
 * Exploring variations and standard deviations
